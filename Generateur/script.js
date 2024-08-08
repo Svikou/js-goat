@@ -1,19 +1,16 @@
-const quotes = [
+const cites = [
   'HTML est une perte de temps',
   'CSS encore plus',
   'React fait des miracles',
   'Laravel écrase php'
 ];
 
+  function generatecite() {
+  const ramdonI = Math.floor(Math.random() * cites.length);
+  document.getElementById('cite').innerHTML = cites[ramdonI];
+  
+  };
 
-function renderquotes() {
+  console.log(ramdonI);
 
-  for (let i = 0; i < quotess.length; i++) { 
-
-  } 
-
-  document.querySelector('quoteBtn') 
-    .innerHTML =  quotes.values;
-  }
-
-  console.log(quotes);
+  
