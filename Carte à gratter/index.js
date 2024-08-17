@@ -9,7 +9,7 @@ const init = () => {
   context.fillRect(0, 0, 200, 200);
 };
 
-//initially mouse X and mouse Y positions are 0
+
 let mouseX = 0;
 let mouseY = 0;
 let isDragged = false;
