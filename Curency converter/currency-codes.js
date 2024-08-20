@@ -156,6 +156,18 @@ let country_list = {
   "VUV" : "VU",
   "YER" : "YE",
   "ZAR" : "ZA",
+  "SYP" : "SY",
+  "SZL" : "SZ",
+  "THB" : "TH",
+  "TJS" : "TJ",
+  "TMT" : "TM",
+  "TND" : "TN",
+  "TOP" : "TO",
+  "TRY" : "TR",
+  "TTD" : "TT",
+  "TWD" : "TW",
+  "TZS" : "TZ",
+  "UAH" : "UA",
   "ZMK" : "ZM",
   "ZWD" : "ZW"
 }
