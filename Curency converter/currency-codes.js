@@ -169,8 +169,7 @@ let country_list = {
   "TZS" : "TZ",
   "UAH" : "UA",
   "ZMK" : "ZM",
-  "ZWD" : "ZW"
-  "SYP" : "SY",
+  "ZWD" : "ZW",
   "SZL" : "SZ",
   "THB" : "TH",
   "TJS" : "TJ",
