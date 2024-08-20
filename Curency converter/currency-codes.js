@@ -170,4 +170,16 @@ let country_list = {
   "UAH" : "UA",
   "ZMK" : "ZM",
   "ZWD" : "ZW"
+  "SYP" : "SY",
+  "SZL" : "SZ",
+  "THB" : "TH",
+  "TJS" : "TJ",
+  "TMT" : "TM",
+  "TND" : "TN",
+  "TOP" : "TO",
+  "TRY" : "TR",
+  "TTD" : "TT",
+  "TWD" : "TW",
+  "TZS" : "TZ",
+  "UAH" : "UA",
 }
