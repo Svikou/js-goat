@@ -4,4 +4,4 @@ this repository brings together some mini projects that I made to improve my ski
 
 ## Quote Generator 
 
-is a quote generator app that generate quotes from a list
+is a quote generator app that generate quotes from a list and render on the screen
