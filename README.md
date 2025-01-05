@@ -1,7 +1,10 @@
 ## Js Goat 
 
-this repository brings together some mini projects that I made to improve my skills in javascript. 
+this repository brings together 5 mini projects that I made to improve my skills in javascript. 
 
-## Quote Generator 
+## 1.Quote Generator 
 
-is a quote generator app that generate quotes from a list and render on the screen in the design wanted
+is a quote generator app that render quotes from a list to the layout.
+
+## Screenshot 📸
+
