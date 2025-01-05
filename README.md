@@ -8,4 +8,4 @@ is a quote generator app that render quotes from a list to the layout.
 
 ## Screenshot 📸
 
-<img src="assets/Quote.png" alt="Screenshot de l'app" width="600"/>
+<img src="Assets/Quote.png" alt="Screenshot de l'app" width="600"/>
