@@ -1,6 +1,6 @@
-## Js Goat
+## Js Challenge
 
-this repository brings together 5 mini projects that I made to improve my skills in javascript.
+this repository brings together 5 mini projects that I've done to improve my skills in javascript.
 
 ## 1.Quote Generator
 
